@@ -110,26 +110,17 @@ Intelligently extract, parse, and structure information from unstructured text a
 ![Chatbot Chat Interface](./docs/screenshots/chatbot-interface.png)
 *Intelligent chatbot conversation interface*
 
-![Chatbot Results](./docs/screenshots/chatbot-results.png)
-*Displayed chatbot responses with formatting*
-
 ---
 
 ### Content Generator
 ![Content Generator Form](./docs/screenshots/generator-form.png)
 *Content generation input form with customization options*
 
-![Generated Content](./docs/screenshots/generated-content.png)
-*Professional content generation results*
-
 ---
 
 ### Data Extraction Tool
 ![Extraction Tool Input](./docs/screenshots/extraction-input.png)
 *Data extraction form with file upload*
-
-![Extracted Data Results](./docs/screenshots/extraction-results.png)
-*Structured extracted data display*
 
 ---
 
