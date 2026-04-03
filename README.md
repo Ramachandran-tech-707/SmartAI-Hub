@@ -408,7 +408,6 @@ Content-Type: multipart/form-data
 
 - **[Frontend Documentation](./frontend/README.md)** - Next.js application setup and development
 - **[Backend Documentation](./backend/README.md)** - FastAPI service setup and configuration
-- **[API Documentation](http://localhost:8002/docs)** - Auto-generated Swagger UI (when backend is running)
 
 ---
 
