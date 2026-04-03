@@ -101,9 +101,6 @@ Intelligently extract, parse, and structure information from unstructured text a
 ![Dashboard Home Screen](./docs/screenshots/dashboard-home.png)
 *Main dashboard showing quick access to all AI tools*
 
-![Navigation Menu](./docs/screenshots/navigation-menu.png)
-*Clean navigation interface for easy tool access*
-
 ---
 
 ### Chatbot Interface
