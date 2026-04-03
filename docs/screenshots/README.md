@@ -8,19 +8,15 @@ This directory contains screenshots of the SmartAI-Hub application showcasing di
 
 ### Dashboard & Navigation
 - `dashboard-home.png` - Main dashboard showing quick access to all AI tools
-- `navigation-menu.png` - Clean navigation interface for easy tool access
 
 ### 🤖 Chatbot Interface
 - `chatbot-interface.png` - Intelligent chatbot conversation interface
-- `chatbot-results.png` - Displayed chatbot responses with formatting
 
 ### ✍️ Content Generator
 - `generator-form.png` - Content generation input form with customization options
-- `generated-content.png` - Professional content generation results
 
 ### 📊 Data Extraction Tool
 - `extraction-input.png` - Data extraction form with file upload
-- `extraction-results.png` - Structured extracted data display
 
 ---
 
@@ -94,5 +90,5 @@ In README.md files, reference screenshots like:
 
 ---
 
-**Created:** April 2026  
-**Last Updated:** April 2026
+**Created:** December 2025  
+**Last Updated:** December 2025

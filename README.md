@@ -444,9 +444,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team
+## 👥 Creator
 
-SmartAI-Hub is developed and maintained by **Pixel Web Solutions**
+SmartAI-Hub is a personal project created and maintained by you
 
 ---
 
@@ -459,15 +459,13 @@ SmartAI-Hub is developed and maintained by **Pixel Web Solutions**
 
 ---
 
-**Made with ❤️ by Pixel Web Solutions**
+**Made with ❤️ by You**
 
-*Last Updated: April 2026*
+*Last Updated: April 2025*
 - Environment setup
 - API endpoints
 - AI service integration
 - Database configuration
-
-👉 [**Backend Documentation**](http://lab.pixelwebsolutions.net/bala.pixelweb/chatbot/-/tree/combined_backend)
 
 ---
 
